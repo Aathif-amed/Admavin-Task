@@ -1,0 +1,10 @@
+.image_container {
+  height: 90vh;
+  overflow-y: scroll;
+}
+.spinner-grow {
+  width: 3rem;
+  height: 3rem;
+  margin: 10% auto;
+  color: brown;
+}

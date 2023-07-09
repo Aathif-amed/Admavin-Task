@@ -1,0 +1,44 @@
+.ps-sidebar-root {
+  background-color: #57a8cc !important;
+}
+.ps-menu-button:hover {
+  background-color: rgb(87, 168, 204, 0.2) !important;
+}
+hr {
+  color: black;
+  border: 1px solid gray;
+}
+.menuIcon {
+  font-size: 25px;
+}
+.homeImage {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhi3xJuLdCJpp6cRZuFYsy0CZ5J3o6A1qqYA&usqp=CAU");
+  background-size: cover;
+  background-position: center;
+}
+.homeContainer {
+  margin-top: 0.5rem;
+  padding: 2rem 2rem 0;
+}
+.lead {
+  text-align: justify;
+}
+.homeRow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.homeCol {
+  padding: 2%;
+  text-align: center;
+}
+.dashLink {
+  text-decoration: none;
+  color: rgb(87, 168, 204);
+  transition: 0.4s;
+  font-size: large;
+}
+.dashLink:hover {
+  color: darkslateblue;
+  font-size: x-large;
+}

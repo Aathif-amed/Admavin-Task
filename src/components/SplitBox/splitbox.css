@@ -1,0 +1,17 @@
+.box {
+  margin: 2% 30%;
+  position: relative;
+  border: 1px solid black;
+}
+
+.box-child {
+  position: absolute;
+  border: 1px solid black;
+}
+.splitBox {
+  display: grid;
+  justify-content: center;
+}
+.resetButton {
+  margin-top: 5%;
+}
